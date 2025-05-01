@@ -209,6 +209,7 @@ with tabs[0]:
         if selected_btn and (not user_input or user_input.strip() == ""):
             user_input = selected_btn
         if user_input:
+            print(f"user_input: {user_input}")
             response = user_chat(user_input + "\n\nContext: user currently selected" + selected_rally)
             # Insert the new chat at the top
             st.session_state[chat_key].insert(0, (user_input, response))
