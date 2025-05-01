@@ -10,7 +10,7 @@ from openai import OpenAI
 #load_dotenv('zh.env', override=True)
 url = "https://api.openai.com/v1/vector_stores/vs_681345cf76d08191aeaafd4763bf4aca/search"
 api_key = os.getenv("OPENAI_API_KEY")  # or replace with your API key string
-client = OpenAI()
+client = OpenAI(api_key=api_key)
 
 headers = {
     "Authorization": f"Bearer {api_key}",
