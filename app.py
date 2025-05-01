@@ -6,7 +6,8 @@ import requests
 from dotenv import load_dotenv
 from openai import OpenAI
 
-load_dotenv('zh.env', override=True)
+# FOR LOCAL
+#load_dotenv('zh.env', override=True)
 url = "https://api.openai.com/v1/vector_stores/vs_681345cf76d08191aeaafd4763bf4aca/search"
 api_key = os.getenv("OPENAI_API_KEY")  # or replace with your API key string
 client = OpenAI()
@@ -18,6 +19,7 @@ headers = {
 
 payload = {
     "query": "Summarized what sun said",
+    # TODO Filters?
     # "filters": {
     #     "type": "eq",
     #     "key": "party",
@@ -92,11 +94,6 @@ def build_llm_prompt(user_query):
         
     payload_q = {
     "query": user_query,
-    # "filters": {
-    #     "type": "eq",
-    #     "key": "party",
-    #     "value": "WP (Worker's Party)"
-    # }
     }
     
     response = requests.post(url, headers=headers, json=payload_q)
