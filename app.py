@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 # FOR LOCAL
-#load_dotenv('zh.env', override=True)
+# load_dotenv('../zh.env', override=True)
 url = "https://api.openai.com/v1/vector_stores/vs_681345cf76d08191aeaafd4763bf4aca/search"
 api_key = os.getenv("OPENAI_API_KEY")  # or replace with your API key string
 client = OpenAI(api_key=api_key)
@@ -210,7 +210,8 @@ with tabs[0]:
             user_input = selected_btn
         if user_input:
             print(f"user_input: {user_input}")
-            response = user_chat(user_input + "\n\nContext: user currently selected" + selected_rally)
+            with st.spinner("Generating answer..."):
+                response = user_chat(user_input + "\n\nContext: user currently selected" + selected_rally)
             # Insert the new chat at the top
             st.session_state[chat_key].insert(0, (user_input, response))
         for q, a in st.session_state[chat_key]:
