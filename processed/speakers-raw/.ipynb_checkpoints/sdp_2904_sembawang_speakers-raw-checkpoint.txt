@@ -1,0 +1,103 @@
+Based on the transcript, the speakers at the SDP (Singapore Democratic Party) rally at Sembawang GRC include the following people. There are multiple speakers, some of whom are candidates for Sembawang GRC, MCs, and guest speakers.
+
+## Identified Speakers
+
+### 1. **MCs / Hosts**
+- **Jasine** (also sometimes referred to as "my sister Jasine", involved in merchandise and MC work; not directly identified as a candidate in this context but is a prominent active speaker, likely Jaslyn Go by SDP context)
+- **Bernard** ("my co-m", "Bernard my co-mC for the night", MC, interacts with audience and introduces other speakers)
+- There may be a secondary MC assisting, but the primary names are above.
+
+### 2. **Sembawang GRC SDP Candidates and Speakers**
+From the transcript, the following individuals directly speak, are introduced as speakers and/or are candidates for Sembawang GRC (based on both speech and introductions on stage):
+
+- **Aza Suliman** (named as "Mr. Aza Suliman", prominent youth leader in Malay community, delivers a full speech)
+- **Suraya Akbar** (referred to as "Suraya", speaks about SDP policy and local issues, is introduced as a Sembawang GRC candidate and treasurer)
+- **Dam (Darma Abbas)** (called "Dam", candidate for Sembawang GRC, delivers a speech, education management background)
+- **Alfred Tan** (introduced and gives a full speech on national and local issues)
+- **Dr. James Gomez** (introduced as a candidate for Sembawang GRC, gives a lengthy speech on policy, democracy, and housing)
+- **Brian Lim** (introduced as Sembawang GRC candidate and team leader, gives a speech, healthcare sector background)
+
+**Note:** The SDP standard team for a GRC is 5 candidates, and all five above are named, introduced, and speak.
+
+### 3. **Other Confirmed Speakers**
+- **Dr. Paul Tambaya** ("Dr. Paul", "candidate for Buket Banjang SMC"), gives a speech as a guest speaker from Bukit Panjang
+- **Dr. Chee Soon Juan** ("Dr. Chi", "candidate for Sembawang West SMC" — though SDP typically runs him in Holland-Bukit Timah or acts as the party leader, for this event, he is designated for Sembawang West SMC and launches into a keynote speech)
+- **Gilbert Goh** (recognised and brought up as an individual to thank for advocacy, not a candidate but thanked on stage; does not give a major speech from what's shown)
+
+---
+
+## **Summary Table**
+
+| Name               | Role                                  | Speaks?              |
+|--------------------|---------------------------------------|----------------------|
+| Bernard            | MC/Host                               | Yes (multiple times) |
+| Jasine (Jaslyn Go) | MC/Merchandise/Host                   | Yes                  |
+| Aza Suliman        | Candidate, Sembawang GRC              | Yes                  |
+| Suraya Akbar       | Candidate, Sembawang GRC              | Yes                  |
+| Alfred Tan         | Candidate, Sembawang GRC              | Yes                  |
+| Dam(ura Abbas)     | Candidate, Sembawang GRC              | Yes                  |
+| Dr. James Gomez    | Candidate, Sembawang GRC              | Yes                  |
+| Brian Lim          | Candidate, Sembawang GRC              | Yes                  |
+| Dr. Paul Tambaya   | Candidate (Bukit Panjang SMC, guest)  | Yes                  |
+| Dr. Chee Soon Juan | Candidate (Sembawang West SMC), Leader| Yes (closing)        |
+| Gilbert Goh        | Activist, (thanked, not main speaker) | Not a main speech    |
+
+---
+
+## **Party Members in List**
+
+You provided: `['Chee Soon Juan']` as party members.  
+**In reality, multiple other SDP figures are present and speaking as above, notably Suraya, James Gomez, Brian Lim, Alfred Tan, Damura Abbas, Paul Tambaya, Aza Suliman.**
+
+---
+
+## **Conclusion**
+
+**Main Speakers Identified in Transcript:**
+- Bernard (MC)
+- Jasine (MC, merchandise, likely Jaslyn Go)
+- Aza Suliman (SDP candidate Sembawang GRC)
+- Suraya Akbar (SDP candidate Sembawang GRC)
+- Alfred Tan (SDP candidate Sembawang GRC)
+- Dam/ Damura Abbas (SDP candidate Sembawang GRC)
+- Dr. James Gomez (SDP candidate Sembawang GRC)
+- Brian Lim (SDP candidate Sembawang GRC)
+- Dr. Paul Tambaya (SDP Bukit Panjang SMC candidate)
+- Dr. Chee Soon Juan (SDP party leader, Sembawang West SMC candidate, key speaker at end)
+
+**There may be other supporting team members (e.g., other volunteers or MCs who speak in passing), but the above are the direct speakers or formally introduced as delivering speeches.**
+
+---
+
+**If you need the SDP Sembawang GRC team explicitly as per this transcript:**
+- Brian Lim
+- Alfred Tan
+- Dr. James Gomez
+- Suraya Akbar
+- Damura Abbas
+
+**+ Party leader/guest:**
+- Dr. Chee Soon Juan (Sembawang West SMC)
+- Dr. Paul Tambaya (Bukit Panjang SMC)
+
+**MCs/Organisers/Active voices:**
+- Bernard
+- Jasine (likely Jaslyn Go)
+
+---
+
+## **Short List (Top speakers):**
+1. Bernard (MC)
+2. Jasine (MC, merchandise)
+3. Brian Lim
+4. Alfred Tan
+5. Dr. James Gomez
+6. Suraya Akbar
+7. Dam(ura Abbas)
+8. Aza Suliman
+9. Dr. Paul Tambaya
+10. Dr. Chee Soon Juan
+
+(Gilbert Goh is thanked/acknowledged, not a formal speech.)
+
+**These are the main speakers in your transcript.**

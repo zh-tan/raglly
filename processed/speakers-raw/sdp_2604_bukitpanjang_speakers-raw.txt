@@ -1,0 +1,154 @@
+**Task:**  
+Identify all the speakers in the transcript from the SDP Bukit Panjang/Sembawang West rally. The known party member is ['Paul Anantharajah Tambyah'], but there may be other SDP members, speakers, or guests speaking.
+
+---
+
+# Speaker Identification
+
+## 1. **Emcee / Rally Host(s)**
+Numerous times we see "while we are waiting… let me welcome everybody" and housekeeping announcements about merchandise, volunteers, lost-and-found, asking for applause, etc. This is most likely an SDP host/emcee(s). Their name(s) are not given.
+
+- **Speakers:** Unknown Emcee(s) (possibly more than one, as multiple transitions occur; names not specified in transcript)
+
+---
+
+## 2. **Joshua Shu**
+Introduced as a "young Democrat," given a warm-up speech. He identifies himself directly:
+
+> Allow me to introduce myself. My name is Joshua Shu and I am 29 years old this year...
+
+- **Speaker:** Joshua Shu (SDP Young Democrat, Dr. Chi's volunteer)
+
+---
+
+## 3. **Jeffrey**
+Next speaker is introduced as "Jeffrey from MTJRC" (likely referring to another SDP candidate):
+
+> And before we get off stage, we would like to introduce to you our next uh candidate who is coming on stage. He is none other than Drew Free from the H sorry from MTJRC. Jeffrey
+
+- **Speaker:** Jeffrey (SDP candidate; possibly full name Jeffrey Khoo or Drew Free/Drufree, but goes by "Jeffrey" in this transcript)
+
+---
+
+## 4. **Dr. Jigin Wong**
+Emcee announces:
+
+> So our next candidate coming up on stage will be Gigin Wong. Jigin shared with me earlier that one of her hobbies is actually hiking...
+
+- **Speaker:** Dr. Jigin Wong (SDP candidate)
+
+---
+
+## 5. **Alec**
+Emcee says:
+
+> What do you think is one of the favorite hobbies of our next candidate elector? He says that he loves to play mahjong with his parents... So ALEC is very very much serious about reformative change here for you, for me and for Singapore. Everybody, Mr. Alec talk SVP Musling UT team.
+
+- **Speaker:** Alec (SDP candidate; possibly Alec Tok based on SDP candidate listings)
+
+---
+
+## 6. **James Gomez**
+Emcee says:
+
+> So, the next speaker coming up on stage is James. James Gomez. James just shared with me backstage… 
+
+Then:
+
+> Dr. James Thomas. Lango, Japan, SDP, SDP SDP SDP SDP. You come to Samawang, you bring the horses. SCP Ba Saboang residents, friends, neighbors, thank you for being here today. Today I ask you to draw a line...
+
+- **Speaker:** James Gomez (SDP candidate)
+
+---
+
+## 7. **Brian Lim**
+Emcee says:
+
+> The next candidate coming up on stage will be Brian. Very quickly introducing Brian....
+
+Followed by Brian saying:
+
+> Dear residents of Sambang West, supporters of the STP, ladies and gentlemen...
+
+- **Speaker:** Brian Lim (SDP candidate; likely Brian Lim based on SDP public candidate lists)
+
+---
+
+## 8. **Paul Tambyah**
+Emcee says:
+
+> Now, we need all your scream, all your whistle because he's also another candidate that needs to be in parliament. Dr. Paul Hello everyone. I'm so happy to be here tonight to speak with you and in particular in support of our candidate for Simbong West SMC, Dr. Chi Sundran.
+
+- **Speaker:** Dr. Paul Anantharajah Tambyah (SDP Chairman)
+
+---
+
+## 9. **Dr. Chee Soon Juan**
+Emcee says:
+
+> the author will be our next speaker. And so the man, the people's champion, Dr. Dr. G. FC. Thank you....
+
+And:
+
+> And now we will give the stage to Dr. Chi. Once again, Dr. Chi, thank you again one and all...
+>
+> Now before they announced the boundaries in this election, many people told me that Buket Bat would not exist as an MC SMC...
+
+Dr. Chi goes on with a long speech.
+
+- **Speaker:** Dr. Chee Soon Juan (SDP Secretary-General)
+
+---
+
+## 10. **Additional: Guest/Other Speakers?**
+- There are segments labeled **"Foreign speech"** and chunks of what is possibly translation, artistic performance, or brief interlude (unclear in the transcript). There is mention of "woman" and "woman Spotify", possibly references to a female speaker, interpreter, or musical act. But due to lack of proper names and context, these cannot be confirmed as additional speakers.
+
+---
+
+# **Summary List of Identified Speakers**
+
+1. **Emcee(s)/Host(s):** Names not specified
+2. **Joshua Shu:** Young Democrat, SDP volunteer
+3. **Jeffrey:** SDP Candidate (full name might be Jeffrey Khoo, but only "Jeffrey" is used)
+4. **Dr. Jigin Wong:** SDP candidate
+5. **Alec:** SDP candidate (possibly Alec Tok)
+6. **James Gomez:** SDP candidate
+7. **Brian Lim:** SDP candidate
+8. **Dr. Paul Anantharajah Tambyah:** SDP Chairman
+9. **Dr. Chee Soon Juan:** SDP Secretary-General, Sembawang West candidate
+
+# **Directly Confirmed Speakers from this Rally Transcript**
+- **Joshua Shu**
+- **Jeffrey**
+- **Dr. Jigin (Gigin) Wong**
+- **Alec**
+- **James Gomez**
+- **Brian Lim**
+- **Dr. Paul Tambyah**
+- **Dr. Chee Soon Juan**
+- **(Emcee/Host: unknown, possibly multiple; names not given)**
+
+---
+
+### **Were there Additional Identifiable Guest Speakers?**
+No additional guest speakers are directly named or clearly identified via speech. Segments labeled "Foreign speech," "woman," etc appear to be reference calls, stage directions, translations, or interludes rather than substantive guest speeches.
+
+---
+
+# **Conclusion**
+
+**Speakers in this transcript:**
+- Joshua Shu
+- Jeffrey
+- Dr. Jigin Wong
+- Alec
+- James Gomez
+- Brian Lim
+- Dr. Paul Tambyah
+- Dr. Chee Soon Juan
+
+**Other:**
+- Unnamed Emcee(s)/host(s)
+- No other distinct guests or additional political speakers identified
+
+**If you need their party roles or brief bios, let me know!**

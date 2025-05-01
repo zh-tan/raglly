@@ -1,0 +1,122 @@
+Given the transcript and your list of party members for **Tampines GRC**:
+- Eileen Chong Pei Shan
+- Michael Thng Quan Wei
+- Muhamuad Faisal Abdul Manap
+- Ong Lue Ping
+- Tan Khim Tech
+
+Let's identify all speakers in the transcript (including guest/candidate speakers and other roles):
+
+---
+
+**1. Rally MCs / Hosts:**
+- “Alexis, your MC for tonight” – **Alexis** (This is not a candidate; she’s the emcee.)
+
+**2. Non-Tampines GRC (Guest) Speakers:**
+- **City Aliyah binti Abdul Rahim Mata** – candidate from Punggol GRC
+- **Jesperwan Hungai Juan Haye** (Jasper Kwan) – candidate from East Coast GRC
+- **Paris B. Paramari** – candidate from East Coast GRC
+- **But Ba / Pali Fousy** – candidate from Aljunied GRC
+- **Sufia Mikuel Pra Muhammad Camille** (Sufyan) – candidate from East Coast GRC
+- **Nathaniel Co** – East Coast GRC
+- **Teran / Fuan Kenneth** – SMC candidate for Tampines Changkat SMC
+- **Sylvia Lim** – Workers' Party Chairperson, former MP (national leader, guest speaker)
+- **Mr. Pri** (Almost certainly **Pritam Singh**, WP Leader of Opposition)
+
+**3. Tampines GRC Speakers:**
+- **Michael Tong Huang / Michael Thng Quan Wei** (slight spelling difference, same person) – confirms he is a Tampines GRC candidate
+- **Dr. Anglo Luing / Ong Lue Ping** (name variations, one person; confirmed by saying “I am Dr. Anglo Luing” and references to psychology at Institute of Mental Health in real-life WP candidate)
+- **Ellen Chong / Eileen Chong Pei Shan** (Hokkien speech, matches the candidate list)
+- **Muhamad Baal bin Abdul Man / Muhamuad Faisal Abdul Manap** (spelling variation, but the WP stalwart who is leading the Tampines GRC slate, based on his introduction and references to Kaki Bukit, Aljunied GRC etc.)
+
+*There is a mention of "Mr Jimmy Tan (the singer)" as a teammate, but you listed no "Tan" except "Tan Khim Tech," and "Jimmy Tan" isn't given the floor for a speech; it could be that Tan Khim Tech and Jimmy Tan are the same, but in the transcript, there is NO speech by "Tan Khim Tech" or "Jimmy Tan".*
+
+Summary: Of the **Tampines GRC candidates**, only 4 are clearly identified as giving speeches:
+- Michael Thng Quan Wei (Michael Tong Huang)
+- Dr. Ong Lue Ping (Anglo Luing)
+- Eileen Chong Pei Shan (Ellen Chong)
+- Muhamuad Faisal Abdul Manap (Muhammad Baal bin Abdul Man)
+
+(**Tan Khim Tech/Jimmy Tan**: no speech attributed to this person in this transcript.)
+
+---
+
+**Full List of Speakers:**
+
+**MC/Host:**
+- Alexis (MC)
+
+**Guest and Non-Tampines candidates (speeches or greetings):**
+- City Aliyah binti Abdul Rahim Mata – candidate, Punggol GRC
+- Jesperwan Hungai Juan Haye (Jasper Kwan) – candidate, East Coast GRC
+- Paris B. Paramari – candidate, East Coast GRC
+- But Ba / Pali Fousy – candidate, Aljunied GRC
+- Sufia Mikuel Pra Muhammad Camille (Sufyan) – candidate, East Coast GRC
+- Nathaniel Co – candidate, East Coast GRC
+- Teran / Fuan Kenneth – candidate, Tampines Changkat SMC
+- Sylvia Lim – Workers' Party Chairperson (guest, former MP)
+- Pritam Singh (as "Pri") – Workers' Party Leader of Opposition
+
+**Tampines GRC candidates:**
+- Michael Thng Quan Wei (Michael Tong Huang)
+- Dr. Ong Lue Ping (Anglo Luing)
+- Eileen Chong Pei Shan (Ellen Chong)
+- Muhamuad Faisal Abdul Manap (Muhamad Baal bin Abdul Man)
+
+**Not directly speaking:** Tan Khim Tech (Jimmy Tan) – mentioned but not given speech content in transcript.
+
+---
+
+## **Summary Table**
+
+| Name                                         | Role/Candidature                   | Spoke at Rally? |
+|-----------------------------------------------|-------------------------------------|-----------------|
+| Michael Thng Quan Wei (Michael Tong Huang)    | Tampines GRC candidate             | Yes             |
+| Dr. Ong Lue Ping (Anglo Luing)                | Tampines GRC candidate             | Yes             |
+| Eileen Chong Pei Shan (Ellen Chong)           | Tampines GRC candidate             | Yes             |
+| Muhamuad Faisal Abdul Manap (Muhamad Baal bin Abdul Man) | Tampines GRC candidate | Yes             |
+| Tan Khim Tech (Jimmy Tan)                     | Tampines GRC candidate             | No (mentioned)  |
+| Alexis                                        | MC                                 | Yes (opening, closing)  |
+| Sylvia Lim                                    | Chairperson, Workers' Party        | Yes             |
+| Pritam Singh (Pri)                            | Leader, Workers' Party             | Yes             |
+| City Aliyah binti Abdul Rahim Mata            | Punggol GRC candidate              | Yes             |
+| Jesperwan Hungai Juan Haye (Jasper Kwan)      | East Coast GRC candidate           | Yes             |
+| Paris B. Paramari                             | East Coast GRC candidate           | Yes             |
+| But Ba / Pali Fousy                           | Aljunied GRC candidate             | Yes             |
+| Sufia Mikuel Pra Muhammad Camille (Sufyan)    | East Coast GRC candidate           | Yes             |
+| Nathaniel Co                                  | East Coast GRC candidate           | Yes             |
+| Teran / Fuan Kenneth                          | Tampines Changkat SMC candidate    | Yes             |
+
+---
+
+## **Conclusion**
+### **Speakers at the rally include:**
+- ALL of the following **Tampines GRC candidates except Tan Khim Tech**:
+    - Eileen Chong Pei Shan (Ellen Chong)
+    - Michael Thng Quan Wei (Michael Tong Huang)
+    - Muhamuad Faisal Abdul Manap (Muhamad Baal bin Abdul Man)
+    - Ong Lue Ping (Anglo Luing)
+- The rally MC (**Alexis**)
+- Guest/candidate speakers from other constituencies:
+    - City Aliyah binti Abdul Rahim Mata
+    - Jesperwan Hungai Juan Haye (Jasper Kwan)
+    - Paris B. Paramari
+    - But Ba/Pali Fousy
+    - Nathaniel Co
+    - Sufia Mikuel Pra Muhammad Camille (Sufyan)
+    - Teran / Fuan Kenneth
+- **Sylvia Lim** (WP Chair, national leader)
+- **Pritam Singh** (Leader of the Opposition)
+
+**Tan Khim Tech (Jimmy Tan)** – acknowledged as candidate/teammate, but no speech content attributed.
+
+---
+
+### **Therefore**
+The speakers in this transcript are:
+
+**Alexis (MC), City Aliyah binti Abdul Rahim Mata, Jesperwan Hungai Juan Haye (Jasper Kwan), Paris B. Paramari, But Ba (Pali Fousy), Sufia Mikuel Pra Muhammad Camille (Sufyan), Nathaniel Co, Teran (Fuan Kenneth), Sylvia Lim, Pritam Singh ("Pri"), and from the Tampines GRC team: Michael Thng Quan Wei (Michael Tong Huang), Ong Lue Ping (Dr Anglo Luing), Eileen Chong Pei Shan (Ellen Chong), Muhamuad Faisal Abdul Manap (Muhamad Baal bin Abdul Man).**
+
+**Tan Khim Tech (Jimmy Tan): not a speaker in this transcript.**
+
+If you need a bullet-point or CSV list for implementation, let me know!

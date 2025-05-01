@@ -1,0 +1,147 @@
+Let's first clarify the user request:
+
+> "Identify who are the speakers in this transcript. There could be additional speakers or guest speakers."
+
+The user has provided a very long transcript of a Singapore Election 2025 Rally at Punggol GRC, with party members ['Gan Kim Yong', 'Janil Puthucheary', 'Sun Xueling', 'Yeo Wan Ling']. They ask for the speakers identified in the transcript, including additional/guest speakers.
+
+### 1. Identify all SPEAKERS in the transcript.
+We'll extract from the transcript everyone who actually *spoke* (delivered a speech), not merely mentioned or introduced.
+
+### 2. Determine if there are any speakers beyond ['Gan Kim Yong', 'Janil Puthucheary', 'Sun Xueling', 'Yeo Wan Ling']
+
+---
+
+## STEP 1: Get the candidate list
+
+PAP Candidates:
+- Gan Kim Yong
+- Janil Puthucheary
+- Sun Xueling
+- Yeo Wan Ling
+
+---
+
+## STEP 2: Parse the transcript for all named speakers
+
+Let's go through the transcript, looking for each person's speech.
+
+**Main Host/MC (not a real speech)**
+
+---
+
+### Speaker 1: Dr. Janil Puthucheary
+
+> "May I invite our first speaker of the night Dr. Janu Perry to take the stage Dr. Janu. Good evening everybody..."
+
+*This is almost certainly Dr. Janil Puthucheary (sometimes spelled poorly but matches contextually).*
+
+---
+
+### Speaker 2: Yeo Wan Ling
+
+> "Next up, let me invite Miss Y. One leg, Hongo residents, union sisters and brothers, friends and supporters of the PAP..."
+
+This refers to Yeo Wan Ling (the transcript has "One leg", a mishearing of "Wan Ling").
+
+---
+
+### Speaker 3: Zaqy Mohamad (Guest Speaker, Senior Minister of State)
+
+> "Next up, may I invite Mr. Zaki Muhammad to take the stage. A very good evening Pungala. Please allow me to begin my speech in Malay, our national language..."
+
+This is Zaqy Mohamad (Senior Minister of State), guest speaker.
+
+---
+
+### Speaker 4: Lim Swee Say (Guest Speaker, "Mr Limu Si" and "Limu Si")
+
+> "Next, allow me to invite our old friend, old friend of Singapore, old friend of PP, Mr. Limu Si. Dear residents of uh Hongo, my dear brother and sisters from the labor movement, my fellow Singaporean, good evening. Yeah...."
+
+This is Lim Swee Say, former Minister, known for guest speeches.
+
+---
+
+### Speaker 5: Indranee Rajah (Minister, Guest Speaker, "Minister Ini Raja")
+
+> "Next up, please join me to give the warmest warmest welcome to Minister Ini Raja. Good evening, Pongo..."
+
+This is Indranee Rajah, Minister, guest speaker.
+
+---
+
+### Speaker 6: Gan Kim Yong (DPM, candidate)
+
+> "Oh, it's me again. Nine days ago. Nine days ago, my coming to Pongo took many by surprise. When Prime Minister approached me with this task..."
+
+> The speech is clearly delivered by DPM Gan Kim Yong.
+
+---
+
+### Speaker 7: Sun Xueling
+
+> "Next up, please join me to welcome Miss Sun Sh. My dear residents, my dear children, thank you for joining me for tonight's rally. A few nights ago, while I was walking in Northshore Plaza..."
+
+This is Sun Xueling, candidate.
+
+---
+
+### Speaker 8: Lawrence Wong (Prime Minister, Guest Speaker, "Prime Minister Florence/Florence Wong"/"DPM2")
+
+> "Now, now, now let's listen. Follow the heart. Be clear to welcome Prime Minister Mr. Lawrence Wong. Residents of Bongo, fellow Singaporeans, good evening. Salam Sajatra..."
+
+This is Prime Minister Lawrence Wong.
+
+---
+
+## STEP 3: List the identified speakers
+
+**Core PAP Punggol GRC Candidates:**
+1. Gan Kim Yong
+2. Janil Puthucheary
+3. Sun Xueling
+4. Yeo Wan Ling
+
+**Guest Speakers / Additional Speakers:**
+5. Zaqy Mohamad (Senior Minister of State)
+6. Lim Swee Say (former Minister)
+7. Indranee Rajah (Minister)
+8. Lawrence Wong (Prime Minister)
+
+---
+
+## STEP 4: Any other possible speakers?
+
+There's a "Host" or "MC" voice handling transitions and introductions, but not delivering any policy speech. From the transcript, all main speeches are by the above.
+
+---
+
+## FINAL ANSWER
+
+### Speakers in this (Punggol GRC, Singapore Election 2025) Rally (in approx. speaking order):
+
+#### Core PAP Candidates
+- **Janil Puthucheary** (Dr. Janil)
+- **Yeo Wan Ling**
+- **Gan Kim Yong** (Deputy Prime Minister, "DPM gun"/"task force man")
+- **Sun Xueling** ("Miss Sun", "Shiring")
+
+#### Guest Speakers / Additional Speakers
+- **Zaqy Mohamad** (Senior Minister of State)
+- **Lim Swee Say** (former Minister)
+- **Indranee Rajah** (Minister)
+- **Lawrence Wong** (Prime Minister)
+
+---
+
+### Summarized Speaker List
+
+1. Dr. Janil Puthucheary
+2. Yeo Wan Ling
+3. Zaqy Mohamad (guest speaker)
+4. Lim Swee Say (guest speaker)
+5. Indranee Rajah (guest speaker)
+6. Gan Kim Yong
+7. Sun Xueling
+8. Lawrence Wong (guest speaker, Prime Minister)
+
+**These are the speakers in this transcript, including both core candidates and guest speakers.**
