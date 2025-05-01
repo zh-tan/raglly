@@ -164,6 +164,12 @@ def user_chat(prompt):
 st.set_page_config(page_title="Ra(g)lly: Chat with Rally Speeches", layout="wide")
 st.title("Ra(g)lly - Chat with 🔥 rally highlights!!")
 st.markdown("Look left, Look right, so many rallies where got time see all?")
+st.markdown(
+    '''
+    <div style="background-color:#fff3cd; color:#856404; border:1px solid #ffeeba; border-radius:6px; padding:10px 20px; margin-bottom:12px; font-size:15px;">
+        <b>Disclaimer:</b> This app summarizes and analyzes rally speeches using AI. Summaries and responses may not be fully accurate or reflect the full context. Please refer to official sources for authoritative information.
+    </div>
+    ''', unsafe_allow_html=True)
 
 tabs = st.tabs(["Rally Info & Chat", "2025 Election Map"])
 
